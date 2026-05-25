@@ -1,0 +1,19 @@
+---
+title: "Events & News"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: [title, date]
+  filter-ui: [search, category]
+page-layout: full
+---
+
+## Latest Events & Announcements
+
+Welcome to our Events page! Here you'll find announcements about upcoming workshops, seminars, and collaborative research initiatives from the BCN Babylab Network.
+
+Browse our latest events below, or check back regularly for new announcements.
+
+---
