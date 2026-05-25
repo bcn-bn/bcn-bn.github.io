@@ -1,0 +1,52 @@
+---
+title: "Welcome to BCN Babylab Network"
+---
+
+## 🍼 Welcome!
+
+The **BCN Babylab Network** is a collaborative research community dedicated to studying infant development and cognition. We bring together researchers, practitioners, and institutions in Barcelona and beyond.
+
+## Quick Navigation
+
+::: {.grid}
+
+::: {.g-col-md-4}
+### 📚 Learn More
+[Explore our mission and values →](about.qmd)
+
+Discover what we do, our research areas, and how we contribute to infant development research.
+:::
+
+::: {.g-col-md-4}
+### 📅 Upcoming Events
+[View all events →](events/index.qmd)
+
+Stay updated with workshops, seminars, and collaborative research initiatives.
+:::
+
+::: {.g-col-md-4}
+### 💬 Get in Touch
+[Contact us →](contact.qmd)
+
+Have questions? Want to collaborate? We'd love to hear from you!
+:::
+
+:::
+
+## About Us
+
+We are a network of research institutions and professionals committed to advancing our understanding of infant cognition, development, and behavior through rigorous, collaborative research.
+
+Our work spans:
+- **Infant cognition** and perception
+- **Language development** in early infancy
+- **Social and emotional development**
+- **Research methodology** and best practices
+
+## Latest Updates
+
+Check out the [Events](events/index.qmd) page for the latest news, workshops, and announcements from our network.
+
+---
+
+*Advancing infant research through collaboration and innovation*
