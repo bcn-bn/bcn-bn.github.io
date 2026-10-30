@@ -1,0 +1,248 @@
+/* BCN Babylab Network - Custom Styles */
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,300..800;1,300..800&display=swap');
+
+:root {
+  --primary-color: #11676a;
+  --secondary-color: #ff9900;
+  --dark-color: #333333;
+  --light-color: #f5f5f5;
+  --success-color: #28a745;
+  --warning-color: #ffc107;
+  --danger-color: #dc3545;
+}
+
+/* Typography */
+body {
+  font-family: 'Bitter', Tahoma, Geneva, Verdana, sans-serif;
+  color: var(--dark-color);
+  line-height: 1.6;
+  font-size: larger;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+h1 {
+  border-bottom: 3px solid var(--secondary-color);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Links */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--secondary-color);
+  text-decoration: underline;
+}
+
+/* Navbar */
+.navbar {
+  background-color: white !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-bottom: 2px solid var(--primary-color);
+}
+
+.navbar-brand {
+  font-weight: 700;
+  color: var(--primary-color) !important;
+  font-size: 1.3rem;
+}
+
+.nav-link {
+  color: var(--dark-color) !important;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: var(--primary-color) !important;
+}
+
+/* Cards */
+.card {
+  border: none;
+  border-left: 4px solid var(--primary-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.card-header {
+  background-color: var(--light-color);
+  border-bottom: 2px solid var(--secondary-color);
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: var(--secondary-color);
+  border-color: var(--secondary-color);
+}
+
+.btn-secondary {
+  background-color: var(--secondary-color);
+  border-color: var(--secondary-color);
+}
+
+.btn-secondary:hover {
+  background-color: #e68a00;
+  border-color: #e68a00;
+}
+
+/* Code blocks */
+pre {
+  background-color: var(--light-color);
+  border-left: 3px solid var(--primary-color);
+  padding: 1rem;
+  border-radius: 4px;
+  overflow-x: auto;
+}
+
+code {
+  color: var(--danger-color);
+  font-family: 'Courier New', monospace;
+}
+
+/* Callout blocks */
+.callout {
+  border-left: 4px solid var(--primary-color);
+  background-color: rgba(0, 102, 204, 0.05);
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 4px;
+}
+
+.callout.note {
+  border-left-color: var(--primary-color);
+  background-color: rgba(0, 102, 204, 0.05);
+}
+
+.callout.warning {
+  border-left-color: var(--warning-color);
+  background-color: rgba(255, 193, 7, 0.05);
+}
+
+.callout.tip {
+  border-left-color: var(--success-color);
+  background-color: rgba(40, 167, 69, 0.05);
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+}
+
+thead {
+  background-color: var(--primary-color);
+  color: white;
+  font-weight: 600;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: var(--light-color);
+}
+
+tbody tr:hover {
+  background-color: rgba(0, 102, 204, 0.1);
+}
+
+td,
+th {
+  padding: 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+/* Footer */
+footer {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 2rem 0;
+  margin-top: 3rem;
+  border-top: 3px solid var(--secondary-color);
+}
+
+footer a {
+  color: var(--secondary-color);
+}
+
+footer a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+/* Grid layout for quick links */
+.grid {
+  margin: 2rem 0;
+}
+
+.g-col-md-4 {
+  padding: 1rem;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid var(--secondary-color);
+  padding-left: 1rem;
+  margin: 1rem 0;
+  font-style: italic;
+  color: #666;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.75rem;
+  }
+
+  .navbar-brand {
+    font-size: 1.1rem;
+  }
+
+  .g-col-md-4 {
+    margin-bottom: 1rem;
+  }
+}
+
+/* Print styles */
+@media print {
+
+  .navbar,
+  footer {
+    display: none;
+  }
+
+  body {
+    font-size: 11pt;
+  }
+
+  a {
+    color: var(--primary-color);
+  }
+}
