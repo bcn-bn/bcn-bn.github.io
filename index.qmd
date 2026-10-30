@@ -16,7 +16,7 @@ We meet approximately every two months to share our work, talk about initiatives
 
 <hr>
 
-### Kee in touch! <i class="fa-solid fa-rss"></i>
+### Keep in touch! <i class="fa-solid fa-rss"></i>
 Have questions? Want to attend our seminars?
 
 [Join our Mailing list →](https://forms.cloud.microsoft/e/mf9k8BVtmH)
