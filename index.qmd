@@ -1,5 +1,5 @@
 ---
-title: "Barcelona Babylab Network"
+title: "Barcelona Babylab Network (BCN-BN)"
 listing:
     contents: events/posts
     sort: "date desc"
