@@ -6,9 +6,9 @@ project:
     - "!README.md"
 
 website:
-  title: "BCN Babylab Network"
+  title: "BCNBN"
   description: "Research community dedicated to infant development and cognition"
-  favicon: "https://emoji.unicode.org/emoji-utility/data/emoji.json"
+  favicon: /static/img/logo.png
   
   navbar:
     background: primary
@@ -20,27 +20,12 @@ website:
         href: about.qmd
       - text: "Events"
         href: events/index.qmd
-      - text: "Contact"
-        href: contact.qmd
     right:
       - icon: github
         href: https://github.com/bcn-babylab-network
         aria-label: GitHub
 
-  footer:
-    left: "© 2026 BCN Babylab Network"
-    center:
-      - text: "About"
-        href: about.qmd
-      - text: "Events"
-        href: events/index.qmd
-      - text: "Contact"
-        href: contact.qmd
-    right:
-      - text: "GitHub"
-        href: https://github.com/bcn-babylab-network
-      - text: Email
-        href: "mailto:info@bcnbabylabnetwork.org"
+footer: "© 2026 BCNBN"
 
 format:
   html:

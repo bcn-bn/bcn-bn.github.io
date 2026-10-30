@@ -1,52 +1,54 @@
 ---
-title: "Welcome to BCN Babylab Network"
+title: "BCN Babylab Network"
+listing:
+    contents: events/posts
+    sort: "date desc"
+    type: default
+    categories: true
+    sort-ui: true
 ---
 
-## 🍼 Welcome!
+::: {.columns}
 
-The **BCN Babylab Network** is a collaborative research community dedicated to studying infant development and cognition. We bring together researchers, practitioners, and institutions in Barcelona and beyond.
+::: {.column width="60%"}
 
-## Quick Navigation
+
+The **BCN Babylab Network (BCN-BN)** is a community of researchers in the Metropolitan Area of Barcelona dedicated to studying infant development and cognition. We aim to promote collaborations between different research groups, bringing together researchers, practitioners, and institutions in the area of Barcelona and beyond.
+
+:::
+
+::: {.column width="40%"}
+
+![](/static/img/logo.png)
+
+:::
+
+:::
+
+
+We meet approximately every two months to share our work, talk about initiatives and learn together. **BCN-BN seminars** are held in person (online option is sometimes possible depending on logistics), hosted by one of the member institutions. 
+
+
+<hr>
 
 ::: {.grid}
 
-::: {.g-col-md-4}
-### 📚 Learn More
-[Explore our mission and values →](about.qmd)
-
-Discover what we do, our research areas, and how we contribute to infant development research.
-:::
-
-::: {.g-col-md-4}
+::: {.g-col-md-6}
 ### 📅 Upcoming Events
 [View all events →](events/index.qmd)
 
 Stay updated with workshops, seminars, and collaborative research initiatives.
 :::
 
-::: {.g-col-md-4}
-### 💬 Get in Touch
-[Contact us →](contact.qmd)
+::: {.g-col-md-6}
+### 💬 Get updates!
+[Mailing list →](https://forms.cloud.microsoft/e/mf9k8BVtmH)
 
-Have questions? Want to collaborate? We'd love to hear from you!
+Have questions? Want to attend our seminars?
+
+Join our [mailing list](https://forms.cloud.microsoft/e/mf9k8BVtmH)!
 :::
 
 :::
 
-## About Us
 
-We are a network of research institutions and professionals committed to advancing our understanding of infant cognition, development, and behavior through rigorous, collaborative research.
-
-Our work spans:
-- **Infant cognition** and perception
-- **Language development** in early infancy
-- **Social and emotional development**
-- **Research methodology** and best practices
-
-## Latest Updates
-
-Check out the [Events](events/index.qmd) page for the latest news, workshops, and announcements from our network.
-
----
-
-*Advancing infant research through collaboration and innovation*

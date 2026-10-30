@@ -2,50 +2,12 @@
 title: "About Us"
 ---
 
-## Who We Are
+The **Barcelona Babylab Network (BCN-BN)** is a collaborative research community based in Barcelona, dedicated to advancing our understanding of infant development and cognition. We bring together researchers, clinicians, and institutions to conduct rigorous, innovative research on how babies learn and develop.
 
-The **BCN Babylab Network** is a collaborative research community based in Barcelona, dedicated to advancing our understanding of infant development and cognition. We bring together researchers, clinicians, and institutions to conduct rigorous, innovative research on how babies learn and develop.
-
-## Our Mission
-
-We aim to:
-
-- 🔬 **Advance infant research** through collaborative, high-quality studies
-- 🤝 **Foster collaboration** among researchers and institutions across Barcelona and beyond
-- 📚 **Share knowledge** and best practices in infant development research
-- 👶 **Understand development** across cognitive, social, linguistic, and emotional domains
-- 🌍 **Make an impact** on our understanding of early human development
-
-## Research Areas
-
-Our network focuses on several key areas of infant development:
-
-### Cognitive Development
-Understanding how infants develop perception, attention, memory, and reasoning abilities.
-
-### Language Development
-Investigating how infants acquire and process language from birth through early childhood.
-
-### Social and Emotional Development
-Studying how infants develop social bonds, emotional regulation, and early social understanding.
-
-### Research Methodology
-Developing and sharing best practices for conducting rigorous, ethical research with infants.
-
-## Our Values
-
-🌟 **Excellence**: We strive for high-quality, rigorous research  
-🤝 **Collaboration**: We believe in the power of working together  
-📖 **Openness**: We are committed to transparency and open science  
-🧒 **Child-Centered**: All our work is guided by what's best for children and families  
-🌐 **Inclusivity**: We welcome researchers from diverse backgrounds and perspectives
-
-## Institutions and Members
-
-Our network includes researchers and institutions from across the Barcelona metropolitan area and beyond. We welcome new members who share our commitment to infant development research.
+The BCN-BN is an initiative led by postdoctoral researchers **Konstantina Zacharaki** (*Universitat de Barcelona*) and **Gonzalo García-Castro** (*Institut de Recerca Sant Joan de Déu, IRSJD*), with the support of their respective research groups, Brain Mechanisms of Language Learning (PI Ruth de Diego Balaguer) and Neurodevelopment and Comparative Cognition (PI Chiara Santolin).
 
 ---
 
 ### Interested in Joining?
 
-If you're a researcher interested in infant development and would like to connect with our network, please [get in touch](contact.qmd)!
+If you're a researcher interested in infant development and would like to connect with our network, please get in touch at [**gonzalo.garcia@sjd.es**](mailto:gonzalo.garcia@sjd.es) or [**k.zacharaki@ub.edu**](k.zacharaki@ub.edu).
