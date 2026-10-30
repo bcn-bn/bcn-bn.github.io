@@ -16,7 +16,7 @@ We meet approximately every two months to share our work, talk about initiatives
 
 <hr>
 
-### 💬 Get updates!
+### Kee in touch! <i class="fa-solid fa-rss"></i>
 Have questions? Want to attend our seminars?
 
 [Join our Mailing list →](https://forms.cloud.microsoft/e/mf9k8BVtmH)
@@ -25,7 +25,7 @@ Have questions? Want to attend our seminars?
 
 <hr>
 
-### 📅 Events
+### Events <i class="fa-solid fa-calendar"></i>
 Stay updated with workshops, seminars, and collaborative research initiatives.
 
 [View all events →](events/index.qmd)
