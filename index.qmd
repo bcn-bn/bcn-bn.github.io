@@ -8,23 +8,9 @@ listing:
     sort-ui: true
 ---
 
-::: {.columns}
-
-::: {.column width="60%"}
-
+![](/static/img/logo.png){ width="30%" fig-align="center"}
 
 The **Barcelona Babylab Network (BCN-BN)** is a community of researchers in the Metropolitan Area of Barcelona dedicated to studying infant development and cognition. We aim to promote collaborations between different research groups, bringing together researchers, practitioners, and institutions in the area of Barcelona and beyond.
-
-:::
-
-::: {.column width="40%"}
-
-![](/static/img/logo.png)
-
-:::
-
-:::
-
 
 We meet approximately every two months to share our work, talk about initiatives and learn together. **BCN-BN seminars** are held in person (online option is sometimes possible depending on logistics), hosted by one of the member institutions. 
 
