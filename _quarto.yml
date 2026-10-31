@@ -6,20 +6,35 @@ project:
     - "!README.md"
 
 website:
-  title: "BCNBN"
+  title: "BCN-BN"
   description: "Research community dedicated to infant development and cognition"
   favicon: /static/img/logo.png
-  
+  twitter-card: true
+  site-url: https://bcn-bn.github.io/
+  open-graph:
+    locale: en_EN
+    site-name: BCN-BN
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: |
+      **Upcoming seminar** - Beginning of December 2026 (exact date, time and location TBD). Join our [mailing list](https://forms.cloud.microsoft/e/mf9k8BVtmH) to get updates!
+    type: info
+    position: below-navbar
+  image: "/static/img/logo.png"
+  image-alt: "BCN-BN logoi"
+  cookie-consent:
+    style: headline
   navbar:
     background: primary
     search: true
     left:
       - text: "Home"
         href: index.qmd
-      - text: "About Us"
-        href: about.qmd
       - text: "Events"
         href: events/index.qmd
+      - text: "About Us"
+        href: about.qmd
     right:
       - icon: github
         href: https://github.com/bcn-babylab-network

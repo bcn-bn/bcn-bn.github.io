@@ -1,10 +1,14 @@
 ---
-title: "About Us"
+title: "About us"
+image: /events/posts/img1.jpg
 ---
 
 The **Barcelona Babylab Network (BCN-BN)** is a collaborative research community based in Barcelona, dedicated to advancing our understanding of infant development and cognition. We bring together researchers, clinicians, and institutions to conduct rigorous, innovative research on how babies learn and develop.
 
-The BCN-BN is an initiative led by postdoctoral researchers **Konstantina Zacharaki** (*Universitat de Barcelona*) and **Gonzalo García-Castro** (*Institut de Recerca Sant Joan de Déu, IRSJD*), with the support of their respective research groups, Brain Mechanisms of Language Learning (PI Ruth de Diego Balaguer) and Neurodevelopment and Comparative Cognition (PI Chiara Santolin).
+The BCN-BN is an initiative led by postdoctoral researchers **Konstantina Zacharaki** [{{< fa brands linkedin >}}](https://www.linkedin.com/in/konstantina-zacharaki-1a6460138/) (*Universitat de Barcelona*) and **Gonzalo García-Castro** [{{< fa brands linkedin >}}](https://www.linkedin.com/in/gongcastro/) [{{< fa brands github >}}](https://github.com/gongcastro) (*Institut de Recerca Sant Joan de Déu, IRSJD*), with the support of their respective research groups, [Brain Mechanisms of Language Learning](https://www.ub.edu/brainvitge/groups/language-learning/) (PI Ruth de Diego Balaguer []()) and [Neurodevelopment and Comparative Cognition](https://www.irsjd.org/es/investigacion/76/neurodevelopment-and-comparative-cognition-neurodevco) (PI Chiara Santolin).
+
+![](/static/img/ub.png){ height="80px" fig-align="left"}
+![](/static/img/irsjd.png){ height="50px" fig-align="right"}
 
 ---
 
