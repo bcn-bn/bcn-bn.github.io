@@ -39,7 +39,8 @@ website:
       - icon: github
         href: https://github.com/bcn-babylab-network
         aria-label: GitHub
-
+  margin-header: |
+    ![](/static/img/logo.png)
 footer: "© 2026 BCNBN"
 
 format:
